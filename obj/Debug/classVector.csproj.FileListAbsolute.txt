@@ -1,0 +1,5 @@
+C:\Code\classVector\bin\Debug\classVector.exe
+C:\Code\classVector\bin\Debug\classVector.pdb
+C:\Code\classVector\obj\Debug\classVector.csprojResolveAssemblyReference.cache
+C:\Code\classVector\obj\Debug\classVector.exe
+C:\Code\classVector\obj\Debug\classVector.pdb
